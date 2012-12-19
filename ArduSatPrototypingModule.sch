@@ -996,11 +996,11 @@ Standard 14-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 <plain>
 <text x="149.86" y="12.7" size="3.048" layer="94">ArduSat Prototyping Module</text>
 <text x="215.9" y="6.858" size="1.778" layer="94">V2.0 (2012-12-15)</text>
-<text x="149.606" y="6.858" size="1.778" layer="94">www.freetronics.com</text>
-<text x="182.88" y="6.858" size="1.778" layer="94">SKU: ASPM</text>
+<text x="149.606" y="6.858" size="1.778" layer="94">www.freetronics.com/aspm</text>
+<text x="193.04" y="6.858" size="1.778" layer="94">SKU: ASPM</text>
 <frame x1="0" y1="0" x2="248.92" y2="185.42" columns="8" rows="5" layer="94"/>
 <frame x1="147.32" y1="5.08" x2="243.84" y2="17.78" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
-<frame x1="180.34" y1="5.08" x2="213.36" y2="10.16" columns="8" rows="5" layer="94"/>
+<frame x1="190.5" y1="5.08" x2="213.36" y2="10.16" columns="8" rows="5" layer="94"/>
 <frame x1="213.36" y1="5.08" x2="243.84" y2="10.16" columns="8" rows="5" layer="94"/>
 <wire x1="83.82" y1="20.32" x2="83.82" y2="5.08" width="0.1524" layer="97" style="longdash"/>
 <wire x1="152.4" y1="180.34" x2="152.4" y2="20.32" width="0.1524" layer="97" style="longdash"/>
