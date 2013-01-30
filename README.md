@@ -1,33 +1,16 @@
-Freetronics ProtoShieldBasic
-==============================
-Copyright 2010 Freetronics Pty Ltd  
-Freetronics site:  <www.freetronics.com>  
-Freetronics email: <info@freetronics.com>  
+Freetronics ArduSat Prototyping Module
+======================================
+Copyright 2012 Freetronics Pty Ltd  
+Freetronics site:  www.freetronics.com  
+Freetronics email: info@freetronics.com  
 
-A minimalist general-purpose prototyping shield for the Arduino
-Duemilanove, TwentyTen, and other compatible boards based on the same
-header format.
-
-This design is intended to maximise prototyping area by extending the
-plain pads right to the ends of the board, which also makes it easier
-to fit horizontal PCB-mount sockets that need to overlap the edge.
-
-Note that this design is intended for simple fabrication and assembly,
-and does not have many of the features of other prototyping shields
-such as the "ProtoShield" (also available from Freetronics) such as
-general-purpose LEDs.
-
-Features:
-
- * Pads for reset button connected to Arduino reset pin.
- * Pads for two 100nF smoothing capacitors.
- * Pads for "power on" LED and current-limiting resistor.
- * Parts overlay on both the top and the bottom so you can see what you
-   are connecting without having to keep turning the board over.
+A minimalist general-purpose prototyping module for CubeSat satellites.
+Specifically designed for ArduSat (www.ardusat.org) but also useful
+for other satellite projects and non-space applications.
 
 More information is available at:
 
-  http://www.freetronics.com/protoshield-basic
+  http://www.freetronics.com/aspm
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
@@ -39,7 +22,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> ProtoShieldBasic.
+navigate to Projects -> eagle -> ArduSatPrototypingModule.
 
 
 DISTRIBUTION
