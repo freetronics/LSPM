@@ -1,16 +1,14 @@
-Freetronics ArduSat Prototyping Module
-======================================
-Copyright 2012 Freetronics Pty Ltd  
-Freetronics site:  www.freetronics.com  
-Freetronics email: info@freetronics.com  
+Freetronics LibreSat Prototyping Module
+=======================================
+Copyright 2012 Freetronics Pty Ltd   www.freetronics.com  
 
 A minimalist general-purpose prototyping module for CubeSat satellites.
-Specifically designed for ArduSat (www.ardusat.org) but also useful
+Originally designed for ArduSat (www.ardusat.org) but also useful
 for other satellite projects and non-space applications.
 
 More information is available at:
 
-  http://www.freetronics.com/aspm
+  http://www.freetronics.com/lspm
 
 The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format and image(s) of the pcb.
@@ -22,7 +20,7 @@ The design is saved as an EAGLE project. EAGLE PCB design software is
 available from www.cadsoftusa.com free for non-commercial use. To use
 this project download it and place the directory containing these files
 into the "eagle" directory on your computer. Then open EAGLE and
-navigate to Projects -> eagle -> ArduSatPrototypingModule.
+navigate to the project.
 
 
 DISTRIBUTION
